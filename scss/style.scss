@@ -507,7 +507,7 @@ header{ transform: scale(1.5); @include transition-cubic;
 				h6{ font-size: 23px; margin-bottom: 30px; line-height: 1.5;}
 				blockquote{display: block; padding: 40px; margin-bottom: 40px; background: $color-turquaz; @include font-two; position: relative;
 				&:before{content: "\f10e"; font-family: fontawesome; font-size: 90px; position: absolute; left: 40px; top: 0; opacity: 0.1;}
-				h5{font-weight: 800; font-family: Poppins; margin: 0;}}
+				h5{font-weight: 800; font-family: 'OrkneyRegular'; margin: 0;}}
 				ul{padding-left: 20px;
 					li{line-height: 1.9;}}
 			p{display: block; line-height: 30px; 
