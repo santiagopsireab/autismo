@@ -51,9 +51,9 @@ theme.
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Fjalla+One|Poppins:400,600,800&subset=latin-ext');
 
 
-@mixin font-one {font-family: 'Poppins', sans-serif;}
-@mixin font-two {font-family: 'Fjalla One', sans-serif;}
-@mixin font-three {font-family: 'Dancing Script', cursive;}
+@mixin font-one {font-family: 'OrkneyRegular';}
+@mixin font-two {font-family: 'OrkneyRegular';}
+@mixin font-three {font-family: 'OrkneyRegular';}
 @mixin font-render{-webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;	-moz-osx-font-smoothing: grayscale;}
 @mixin transition{-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-ms-transition: .25s ease-in-out; -o-transition: .25s ease-in-out; transition: .25s ease-in-out;}
 @mixin transition-cubic{-webkit-transition: all 0.5s ease;	-moz-transition: all 0.5s ease;	transition: all 0.5s ease;
